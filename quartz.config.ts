@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "igorkan.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    // defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,

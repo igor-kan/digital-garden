@@ -3,7 +3,6 @@ title:
 description: 
 aliases: 
 draft: false
-date:
 ---
 # University of Toronto 
 **BSc Physics and Mathematics Double Major, Biochemistry Major, Statistics Minor** 
