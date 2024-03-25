@@ -2,6 +2,6 @@
 title: 
 description: 
 aliases: 
-draft: true
+draft: false
 date:
 ---
