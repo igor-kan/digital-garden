@@ -5,11 +5,11 @@ aliases:
 draft: false
 date:
 ---
-## University of Toronto 
+# University of Toronto 
 **BSc Physics and Mathematics Double Major, Biochemistry Major, Statistics Minor** 
 **2020 - current** 
-### Courses 
-#### Mathematics 
+## Courses 
+### Mathematics 
 - `MATC37H3` Introduction to Real Analysis
 - `MATC27H3` Introduction to Topology
 - `MATC46H3` Differential Equations II
@@ -22,16 +22,16 @@ date:
 - `MATA31H3+MATA37H3` Calculus for Mathematical Sciences
 - `MAT138H1` Introduction to Proofs
 
-#### Statistics 
+### Statistics 
 - `STA2006H1` Applied Stochastic Processes (Graduate)
 - `STAC67H3` Regression Analysis
 - `STA347H1` Probability I
 - `STAB57H3` An Introduction to Statistics
 - `STAB52H3` Introduction to Probability
-#### Computer Science 
+### Computer Science 
 - `CSC207H1` Software Design (Java)
 - `CSCA08H3+CSCA48H3` Introduction to Computer Science (C/C++)
-#### Physics 
+### Physics 
 - `PHY254H1` Classical Mechanics
 - `PHY250H1` Electricity & Magnetism
 - `PHY256H1` Introduction to Quantum Physics
@@ -39,7 +39,7 @@ date:
 - `PHYB10H3` Intermediate Physics Laboratory I
 - `PHYA10H3+PHYA21H3` Physics for the Physical Sciences
 
-#### Biochemistry and Molecular Biology
+### Biochemistry and Molecular Biology
 - `BIOC15H3` Genetics
 - `BIOC12H3` Biochemistry I: Proteins and Enzymes
 - `CHMB21H3` Chemical Structure and Spectroscopy
@@ -52,7 +52,7 @@ date:
 - `BIOB12H3` Cell and Molecular Biology Laboratory
 - `CHMA10H3+CHMA11H3`Introductory Chemistry
 - `BIOA01H3+BIOA02H3` Introductory Biology
-#### Electives
+### Electives
 - `FREA96H3` Introductory French I
 - `PSYA02H3` Introduction to Clinical, Developmental Personality and Social Psychology
 - `PSYA01H3` Introduction to Biological and Cognitive Psychology
