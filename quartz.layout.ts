@@ -7,10 +7,12 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      "Email": "igor.zakhidov@mail.utoronto.ca",
+      "Email": "mailto:igor.zakhidov@mail.utoronto.ca",
       GitHub: "https://github.com/igor-kan/",
       "LinkedIn": "https://www.linkedin.com/in/igor-zakhidov/",
+      "Discord": "discord://-/channels/@me/ingvar_z",
       "Instagram": "https://www.instagram.com/ingvar_kan/",
+      "Facebook": "https://www.facebook.com/igor.zakhidov.5/",
     },
   }),
 }

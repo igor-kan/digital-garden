@@ -1,5 +1,5 @@
 ---
-title: 
+title: 🎓Education
 description: 
 aliases: 
 draft: false
