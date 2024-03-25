@@ -7,7 +7,9 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
+      "Email": "igor.zakhidov@mail.utoronto.ca",
       GitHub: "https://github.com/igor-kan/",
+      "LinkedIn": "https://www.linkedin.com/in/igor-zakhidov/",
       "Instagram": "https://www.instagram.com/ingvar_kan/",
       
     },
@@ -16,7 +18,7 @@ export const sharedPageComponents: SharedLayout = {
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [
+  beforeBody: [np
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
