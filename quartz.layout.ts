@@ -11,7 +11,6 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/igor-kan/",
       "LinkedIn": "https://www.linkedin.com/in/igor-zakhidov/",
       "Instagram": "https://www.instagram.com/ingvar_kan/",
-      
     },
   }),
 }
