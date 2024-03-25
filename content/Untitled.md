@@ -1,7 +1,7 @@
 ---
 title: 
 description: 
-aliases:
+aliases: 
 draft: false
-date: 
+date:
 ---

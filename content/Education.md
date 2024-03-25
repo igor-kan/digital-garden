@@ -60,3 +60,5 @@ date:
 - `EESA01H3` Introduction to Environmental Science
 
 
+# Certificates
+[MIT 2.25.1x: Advanced Fluid Mechanics 1](https://courses.edx.org/certificates/2a83e4a4cc9c4dc18e6c5fae2766a912)
