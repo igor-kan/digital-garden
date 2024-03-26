@@ -44,4 +44,3 @@ Study methods
 - [[seismic wave]]s 
 - high-pressure, high-temperature vexperiments
 	- rocks and minerals
-![[Pasted image 20240326165142.png]]
