@@ -5,8 +5,9 @@ aliases:
 draft: false
 ---
 # University of Toronto 
-**BSc Physics and Mathematics Double Major, Biochemistry Major, Statistics Minor** 
+**BSc Physics and Mathematics Double Major, Statistics Minor, Ex-Biochemistry Major** 
 (**2020 - current**)
+
 ## Courses 
 ### Mathematics 
 - `APM462H1` [Nonlinear Optimization](https://artsci.calendar.utoronto.ca/course/apm462h1) (future)
@@ -40,7 +41,7 @@ draft: false
 - `PHYB10H3` Intermediate Physics Laboratory I
 - `PHYA10H3+PHYA21H3` Physics for the Physical Sciences
 ### Biochemistry 
-- `BIOC13H3` [Biochemistry II: Bioenergetics and Metabolism](https://utsc.calendar.utoronto.ca/course/bioc13h3)(future)
+- `BIOC13H3` [Biochemistry II: Bioenergetics and Metabolism](https://utsc.calendar.utoronto.ca/course/bioc13h3)(potential)
 - `BIOC12H3` Biochemistry I: Proteins and Enzymes
 - `CHMB21H3` Chemical Structure and Spectroscopy (GaussView 6)
 - `CHMB23H3` Introduction to Chemical Thermodynamics and Kinetics: Theory and Practice
@@ -63,13 +64,18 @@ draft: false
 # Certificates
 - [MIT - 2.25.1x: Advanced Fluid Mechanics 1](https://courses.edx.org/certificates/2a83e4a4cc9c4dc18e6c5fae2766a912)
 - KAIST - Differential Equations I,II,III
+## In progress
+- [DeepLearning.AI](http://deeplearning.ai/) AI for good
+- LMU - Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python
+- IBM - Data Visualization with Python
+- UofT - State Estimation and Localization for Self-Driving Cars (GPS, IMU, LIDAR)
+- UofT - GIS Data Acquisition and Map Design
+- UofT - Spatial Analysis and Satellite Imagery in a GIS
+- University of Geneva - Simulation and modeling of natural processes
+- HKUST - Numerical Methods for Engineers
+- CU - Deep Time: Discovering an Ancient Earth
 - Meta - Front-End Developer Professional Certificate
-- Meta Back-End Developer Professional Certificate
-- IBM Full-Stack JavaScript Developer Professional Certificate
-- IBM Generative AI for Software Developers
-- Google Cloud Introduction to AI and Machine Learning on Google Cloud
-- DeepLearning.AI AI for good
-- Google Cloud Infrastructure for AWS Professionals
-- Duke Large Language Model Operations (LLMOps)
-- Duke Introduction to Retrieval Augmented Generation (RAG)
-- Scrimba AI Engineering
+- University of Chicago - Global Warming II: Create Your Own Models in Python
+
+
+
