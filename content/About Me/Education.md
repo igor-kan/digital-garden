@@ -40,6 +40,7 @@ draft: false
 - `PHYB10H3` Intermediate Physics Laboratory I
 - `PHYA10H3+PHYA21H3` Physics for the Physical Sciences
 ### Biochemistry 
+- `BIOC13H3` [Biochemistry II: Bioenergetics and Metabolism](https://utsc.calendar.utoronto.ca/course/bioc13h3)(future)
 - `BIOC12H3` Biochemistry I: Proteins and Enzymes
 - `CHMB21H3` Chemical Structure and Spectroscopy (GaussView 6)
 - `CHMB23H3` Introduction to Chemical Thermodynamics and Kinetics: Theory and Practice

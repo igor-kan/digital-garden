@@ -1,7 +1,8 @@
 ---
 title: 
 description: 
-aliases: [Light Detection and Ranging]
-draft: false
+aliases:
+  - Light Detection and Ranging
+draft: true
 date:
 ---
