@@ -2,7 +2,7 @@
 title: 🛠️Projects
 description: 
 aliases: 
-draft: false
+draft: true
 ---
 # Guided projects
 ## Geospatial Data Visualization using Python and Folium
