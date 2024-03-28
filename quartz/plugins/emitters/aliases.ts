@@ -53,7 +53,8 @@ export const AliasRedirects: QuartzEmitterPlugin = () => ({
         if (slug.endsWith("/")) {
           slug = joinSegments(slug, "index") as FullSlug
         }
-
+        
+        // removed <meta name="robots" content="noindex">  - line 67
         const redirUrl = resolveRelative(slug, file.data.slug!)
         const fp = await write({
           ctx,
@@ -63,7 +64,7 @@ export const AliasRedirects: QuartzEmitterPlugin = () => ({
             <head>
             <title>${ogSlug}</title>
             <link rel="canonical" href="${redirUrl}">
-            <meta name="robots" content="noindex">
+            
             <meta charset="utf-8">
             <meta http-equiv="refresh" content="0; url=${redirUrl}">
             </head>
