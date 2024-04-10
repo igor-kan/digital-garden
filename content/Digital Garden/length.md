@@ -13,8 +13,6 @@ tags:
 
 $I \subseteq \mathbb{R}$
 
-$$\mathscr{l}(I)=\begin{cases}
-b-a \text{  , if bounded}\\ \infty \text{   , if unbounded} 
-\end{cases}$$
+$$\mathscr{l}(I)=\begin{cases}b-a \text{  , if bounded}\\ \infty \text{   , if unbounded}\end{cases}$$
 
 # References
