@@ -16,6 +16,7 @@ draft: false
 - `MATC46H3` Differential Equations II (in progress)
 - `MATC34H3` Complex Variables
 - `MATC01H3` [Groups and Symmetry](https://utsc.calendar.utoronto.ca/course/matc01h3) (future)
+- `MAT344H1` [Introduction to Combinatorics](https://artsci.calendar.utoronto.ca/course/mat344h1) (future)
 - `MATB43H3` [Introduction to Analysis](https://utsc.calendar.utoronto.ca/course/matb43h3)
 - `MATB44H3` Differential Equations I
 - `MATB61H3` [Linear Programming and Optimization](https://utsc.calendar.utoronto.ca/course/matb61h3)
@@ -26,11 +27,15 @@ draft: false
 - `MAT138H1` Introduction to Proofs
 ### Statistics 
 - `STA2006H1` [Applied Stochastic Processes](https://www.statistics.utoronto.ca/graduate/graduate-course-descriptions/) (Graduate) (in progress)
+- `STA457H1` [Time Series Analysis](https://artsci.calendar.utoronto.ca/course/sta457h1)(Graduate) (future)
+- `STA314H1` [Statistical Methods for Machine Learning](https://artsci.calendar.utoronto.ca/course/sta314h1) (future)
 - `STAC67H3` [Regression Analysis](https://utsc.calendar.utoronto.ca/course/stac67h3) (R) (in progress)
 - `STA347H1` Probability I
 - `STAB57H3` An Introduction to Statistics (R)
 - `STAB52H3` Introduction to Probability
 ### Computer Science 
+- `CSCC43H3` [Introduction to Databases](https://utsc.calendar.utoronto.ca/course/cscc43h3) (future)
+- `CSCC69H3` [Operating Systems](https://utsc.calendar.utoronto.ca/course/cscc69h3) (future)
 - `CSC207H1` [Software Design](https://artsci.calendar.utoronto.ca/course/csc207h1) (Java)
 - `CSCA08H3+CSCA48H3` Introduction to Computer Science (C/C++)
 ### Physics 
