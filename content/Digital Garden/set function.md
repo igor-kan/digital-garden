@@ -10,7 +10,8 @@ tags:
 For $\mathscr{C} \subseteq \mathcal{P}(\mathbb{X})$
 $f:\mathscr{C} \rightarrow \mathbb{Y}$
 
-
+![[set function 2024-04-22 15.58.44.excalidraw]]
+![[set function 2024-04-22 15.59.09.excalidraw]]
 
 [[Dirac delta function ]]
 [[length]]
