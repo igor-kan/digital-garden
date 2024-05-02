@@ -1,0 +1,1 @@
+[pointed object in nLab](https://ncatlab.org/nlab/show/pointed+object)
