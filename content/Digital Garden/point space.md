@@ -1,1 +1,0 @@
-[point space in nLab](https://ncatlab.org/nlab/show/point+space)
